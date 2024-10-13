@@ -1,0 +1,21 @@
+Transaction ID,Item 1,Item 2,Item 3,Item 4
+1,Laptop,Monitor,Keyboard,Mouse
+2,Tablet,Smartwatch,Bluetooth Speaker,
+3,Headphones,Laptop,Smartwatch,
+4,Camera,Tripod,Lens,
+5,Smartwatch,Tablet,Laptop,Bluetooth Speaker
+6,Monitor,Keyboard,Mouse,
+7,Bluetooth Speaker,Headphones,Laptop,
+8,Keyboard,Tablet,Smartwatch,Camera
+9,Monitor,Laptop,Headphones,
+10,Mouse,Keyboard,Laptop,Monitor
+11,Smartwatch,Tablet,Bluetooth Speaker,
+12,Laptop,Camera,Tripod,
+13,Headphones,Monitor,Keyboard,
+14,Bluetooth Speaker,Smartwatch,Laptop,Camera
+15,Tablet,Keyboard,Monitor,
+16,Camera,Mouse,Smartwatch,
+17,Headphones,Tablet,Monitor,
+18,Smartwatch,Laptop,Bluetooth Speaker,
+19,Monitor,Mouse,Keyboard,
+20,Camera,Smartwatch,Headphones,

@@ -1,0 +1,21 @@
+Transaction ID,Item 1,Item 2,Item 3,Item 4
+1,Milk,Bread,Eggs,Cheese
+2,Cereal,Toilet Paper,Shampoo,
+3,Rice,Pasta,Bread,
+4,Chicken,Cereal,Eggs,Milk
+5,Shampoo,Toilet Paper,Rice,
+6,Eggs,Milk,Chicken,Bread
+7,Toilet Paper,Shampoo,Cereal,
+8,Chicken,Bread,Milk,Pasta
+9,Eggs,Rice,Toilet Paper,Shampoo
+10,Cereal,Chicken,Milk,
+11,Milk,Eggs,Toilet Paper,Rice
+12,Pasta,Chicken,Shampoo,
+13,Cereal,Milk,Toilet Paper,
+14,Chicken,Shampoo,Rice,Pasta
+15,Eggs,Dish Soap,Cereal,Milk
+16,Bread,Toilet Paper,Chicken,Shampoo
+17,Rice,Milk,Eggs,
+18,Chicken,Dish Soap,Bread,
+19,Shampoo,Pasta,Milk,Eggs
+20,Rice,Chicken,Cereal,

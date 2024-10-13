@@ -1,0 +1,21 @@
+Transaction ID,Item 1,Item 2,Item 3,Item 4
+1,Dining Table,Chairs,Tableware,
+2,Sofa,Coffee Table,Lamp,
+3,Bed,Mattress,Bedding,
+4,Wardrobe,Hangers,Shelf,
+5,Dining Table,Coffee Table,Chairs,Tableware
+6,Bed,Wardrobe,Hangers,
+7,Sofa,Dining Table,Tableware,
+8,Coffee Table,Chairs,Lamp,
+9,Bed,Mattress,Hangers,
+10,Dining Table,Shelf,Chairs,
+11,Sofa,Mattress,Coffee Table,Hangers
+12,Wardrobe,Tableware,Shelf,
+13,Chairs,Coffee Table,Bed,Lamp
+14,Dining Table,Sofa,Hangers,
+15,Mattress,Wardrobe,Shelf,
+16,Coffee Table,Chairs,Tableware,
+17,Bed,Hangers,Sofa,
+18,Dining Table,Mattress,Wardrobe,
+19,Chairs,Coffee Table,Lamp,Shelf
+20,Sofa,Dining Table,Hangers,Tableware

@@ -1,0 +1,21 @@
+Transaction ID,Item 1,Item 2,Item 3,Item 4
+1,Running Shoes,Sports Bra,T-Shirt,
+2,Hoodie,Sweatpants,Sneakers,
+3,Flip Flops,Cap,Backpack,
+4,Socks,Running Shoes,T-Shirt,
+5,Hoodie,Flip Flops,Backpack,
+6,Sports Bra,Sneakers,Sweatpants,
+7,T-Shirt,Socks,Cap,
+8,Running Shoes,Hoodie,Flip Flops,
+9,Sports Bra,Sweatpants,Sneakers,T-Shirt
+10,Backpack,Socks,Cap,
+11,Hoodie,Running Shoes,T-Shirt,
+12,Flip Flops,Sports Bra,Backpack,
+13,Sweatpants,Sneakers,Socks,
+14,T-Shirt,Hoodie,Cap,
+15,Running Shoes,Flip Flops,Backpack,
+16,Sports Bra,Sweatpants,Sneakers,T-Shirt
+17,Socks,Hoodie,Cap,
+18,T-Shirt,Running Shoes,Backpack,
+19,Sweatpants,Sports Bra,Socks,
+20,Flip Flops,Sneakers,Hoodie,Cap
